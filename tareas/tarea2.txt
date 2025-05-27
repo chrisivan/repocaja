@@ -1,0 +1,5 @@
+# Tarea 2 - Lista de alumnos
+
+- [ ] Alumno 1
+- [ ] Alumno 2
+- [ ] Alumno 3

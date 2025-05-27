@@ -1,0 +1,3 @@
+# Sobre mí
+
+¡Hola! Soy Juan, estudiante del curso de Git. Esta es mi primera contribución a un proyecto colaborativo 😄
