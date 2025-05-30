@@ -1,6 +1,6 @@
 # Tarea 1 - Lista de alumnos
 
-- [ ] Alumno 1
+- [ ] Res conflicto git
 - [ ] Alumno 2
 - [ ] Alumno 3
 - [ ECH ] Alumno 4
