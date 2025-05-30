@@ -1,5 +1,5 @@
 # Tarea 1 - Lista de alumnos
 
-- [ ] Alumno 1
+- [ ] NombreFicticio
 - [ ] Alumno 2
 - [ ] Alumno 3
