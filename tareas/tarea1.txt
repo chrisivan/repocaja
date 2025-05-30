@@ -1,6 +1,7 @@
 # Tarea 1 - Lista de alumnos
 
 - [ ] Res conflicto git
+- [ ] Emmanuel Chaile
 - [ ] Alumno 2
 - [ ] Alumno 3
 - [ ECH ] Alumno 4
